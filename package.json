@@ -1,0 +1,11 @@
+{
+  "name": "csit314-jenkins-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD project for CSIT 314 Homework 6",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}
